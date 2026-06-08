@@ -1,0 +1,1 @@
+"A SQL-only database project for a Student Blood Bank Management System. Includes schema design, sample data, and queries for managing donors, blood inventory, and recipient requests. Built for Database." 
